@@ -3,19 +3,16 @@
 [![Website](https://img.shields.io/website?label=dhanushsss&style=for-the-badge&url=https%3A%2F%2Fdhanushsss.github.io)](https://dhanushsss.github.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Dhanush43094074?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Dhanush43094074)
 
-## I'm a Developer !
-
+## I'm a FrontEnd UI/UX Developer !
 
 ![git](https://user-images.githubusercontent.com/51916493/104953501-872d9f00-59ec-11eb-8d0e-ccb476b24682.gif)
 
 
+I'm a UI/UX/Front End Engineer. I build creative web things. Lately, I've been building Vue and Nuxt projects, learning how to integrate Express(NodeJS) into my projects and deploying it to Heroku.
 
+📔 My most recent project is this blog made with Gridsome, Vue, GraphQL and NetlifyCMS.
 
-
-
-
-- 🖥 I’m currently working on Application as well Web Development .
-- ☺️ I’m currently learning Flutter and React Native.
+⭐️ You can also find my work on Instagram and Codepen.
 
 ### Connect with me:
 
@@ -38,9 +35,6 @@
 <br />
 
 ---
-
-
- 
 
   <img align="left" alt="Dhanush's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dhanushsss&show_icons=true&hide_border=true" />
 
