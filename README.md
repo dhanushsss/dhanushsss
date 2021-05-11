@@ -8,9 +8,9 @@
 ![git](https://user-images.githubusercontent.com/51916493/104953501-872d9f00-59ec-11eb-8d0e-ccb476b24682.gif)
 
 
-I'm a UI/UX/Front End Engineer. I build creative web things. Lately, I've been building Vue and Nuxt projects, learning how to integrate Express(NodeJS) into my projects and deploying it to Heroku.
+I'm a UI/UX/Front End Engineer. I build creative web things. Lately, I've been building React projects, learning how to integrate Express(NodeJS) into my projects and deploying it to Heroku.
 
-📔 My most recent project is this blog made with Gridsome, Vue, GraphQL and NetlifyCMS.
+📔 My most recent project is this blog made with  React and MongoDB .
 
 ⭐️ You can also find my work on Instagram and Codepen.
 
