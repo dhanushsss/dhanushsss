@@ -40,7 +40,7 @@ I'm a UI/UX/Front End Engineer. I build creative web things. Lately, I've been b
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushsss&layout=compact)](https://github.com/dhanushsss/github-readme-stats)
 
 
- [![Dhanush's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhanushsss)](https://github.com/dhanushsss/github-readme-stats)/>
+ [![Dhanush's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhanushsss)](https://github.com/dhanushsss/github-readme-stats)
 
 
 
