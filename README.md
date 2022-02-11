@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=dhanushsss&style=for-the-badge&url=https%3A%2F%2Fdhanushsss.github.io)](https://dhanushsss.github.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Dhanush43094074?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Dhanush43094074)
 
-## I'm a Java Developer & UI/UX Developer !
+## I'm a Full Stack Developer !
 
 ![git](https://user-images.githubusercontent.com/51916493/104953501-872d9f00-59ec-11eb-8d0e-ccb476b24682.gif)
 
