@@ -7,13 +7,6 @@
 
 ![git](https://user-images.githubusercontent.com/51916493/104953501-872d9f00-59ec-11eb-8d0e-ccb476b24682.gif)
 
-
-I'm a Associate Software Engineer . I build creative web things. Lately, I've been building React projects, learning how to integrate Spring Boot into my projects and deploying it to Heroku and Java Development
-
-📔 My most recent project is this Agro-App made with React Native .
-
-⭐️ You can also find my work on Instagram .
-
 ### Connect with me:
 
 <img align="left"  alt="dhanush | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
